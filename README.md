@@ -1,2 +1,2 @@
 # springcloud
-Repository for the Spring Cloud training
+Repository for the Spring Cloud training - Via actuator
