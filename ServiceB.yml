@@ -1,1 +1,10 @@
+server:
+  port: 8091
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
+
 greeting: Hello from ServiceB (GitHub) - Via Actuator
