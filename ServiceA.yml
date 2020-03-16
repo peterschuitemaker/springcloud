@@ -1,1 +1,10 @@
+server:
+  port: 8090
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
+        
 greeting: Hello from ServiceA (github) - Via Actuator
